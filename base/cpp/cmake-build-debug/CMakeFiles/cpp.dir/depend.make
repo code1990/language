@@ -7,7 +7,22 @@ CMakeFiles/cpp.dir/chapter_01_hello.cpp.obj: ../chapter_01_hello.h
 CMakeFiles/cpp.dir/chapter_02_datatype.cpp.obj: ../chapter_02_datatype.cpp
 CMakeFiles/cpp.dir/chapter_02_datatype.cpp.obj: ../chapter_02_datatype.h
 
+CMakeFiles/cpp.dir/chapter_03_expression.cpp.obj: ../chapter_03_expression.cpp
+CMakeFiles/cpp.dir/chapter_03_expression.cpp.obj: ../chapter_03_expression.h
+
+CMakeFiles/cpp.dir/chapter_04_judgment.cpp.obj: ../chapter_04_judgment.cpp
+CMakeFiles/cpp.dir/chapter_04_judgment.cpp.obj: ../chapter_04_judgment.h
+
+CMakeFiles/cpp.dir/chapter_05_cycle.cpp.obj: ../chapter_05_cycle.cpp
+CMakeFiles/cpp.dir/chapter_05_cycle.cpp.obj: ../chapter_05_cycle.h
+
+CMakeFiles/cpp.dir/chapter_06_function.cpp.obj: ../chapter_06_function.cpp
+CMakeFiles/cpp.dir/chapter_06_function.cpp.obj: ../chapter_06_function.h
+
 CMakeFiles/cpp.dir/main.cpp.obj: ../chapter_01_hello.h
 CMakeFiles/cpp.dir/main.cpp.obj: ../chapter_02_datatype.h
+CMakeFiles/cpp.dir/main.cpp.obj: ../chapter_03_expression.h
+CMakeFiles/cpp.dir/main.cpp.obj: ../chapter_04_judgment.h
+CMakeFiles/cpp.dir/main.cpp.obj: ../chapter_05_cycle.h
 CMakeFiles/cpp.dir/main.cpp.obj: ../main.cpp
 

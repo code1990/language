@@ -176,6 +176,114 @@ chapter_02_datatype.cpp.s:
 	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_02_datatype.cpp.s
 .PHONY : chapter_02_datatype.cpp.s
 
+chapter_03_expression.obj: chapter_03_expression.cpp.obj
+
+.PHONY : chapter_03_expression.obj
+
+# target to build an object file
+chapter_03_expression.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_03_expression.cpp.obj
+.PHONY : chapter_03_expression.cpp.obj
+
+chapter_03_expression.i: chapter_03_expression.cpp.i
+
+.PHONY : chapter_03_expression.i
+
+# target to preprocess a source file
+chapter_03_expression.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_03_expression.cpp.i
+.PHONY : chapter_03_expression.cpp.i
+
+chapter_03_expression.s: chapter_03_expression.cpp.s
+
+.PHONY : chapter_03_expression.s
+
+# target to generate assembly for a file
+chapter_03_expression.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_03_expression.cpp.s
+.PHONY : chapter_03_expression.cpp.s
+
+chapter_04_judgment.obj: chapter_04_judgment.cpp.obj
+
+.PHONY : chapter_04_judgment.obj
+
+# target to build an object file
+chapter_04_judgment.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_04_judgment.cpp.obj
+.PHONY : chapter_04_judgment.cpp.obj
+
+chapter_04_judgment.i: chapter_04_judgment.cpp.i
+
+.PHONY : chapter_04_judgment.i
+
+# target to preprocess a source file
+chapter_04_judgment.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_04_judgment.cpp.i
+.PHONY : chapter_04_judgment.cpp.i
+
+chapter_04_judgment.s: chapter_04_judgment.cpp.s
+
+.PHONY : chapter_04_judgment.s
+
+# target to generate assembly for a file
+chapter_04_judgment.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_04_judgment.cpp.s
+.PHONY : chapter_04_judgment.cpp.s
+
+chapter_05_cycle.obj: chapter_05_cycle.cpp.obj
+
+.PHONY : chapter_05_cycle.obj
+
+# target to build an object file
+chapter_05_cycle.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_05_cycle.cpp.obj
+.PHONY : chapter_05_cycle.cpp.obj
+
+chapter_05_cycle.i: chapter_05_cycle.cpp.i
+
+.PHONY : chapter_05_cycle.i
+
+# target to preprocess a source file
+chapter_05_cycle.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_05_cycle.cpp.i
+.PHONY : chapter_05_cycle.cpp.i
+
+chapter_05_cycle.s: chapter_05_cycle.cpp.s
+
+.PHONY : chapter_05_cycle.s
+
+# target to generate assembly for a file
+chapter_05_cycle.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_05_cycle.cpp.s
+.PHONY : chapter_05_cycle.cpp.s
+
+chapter_06_function.obj: chapter_06_function.cpp.obj
+
+.PHONY : chapter_06_function.obj
+
+# target to build an object file
+chapter_06_function.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_06_function.cpp.obj
+.PHONY : chapter_06_function.cpp.obj
+
+chapter_06_function.i: chapter_06_function.cpp.i
+
+.PHONY : chapter_06_function.i
+
+# target to preprocess a source file
+chapter_06_function.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_06_function.cpp.i
+.PHONY : chapter_06_function.cpp.i
+
+chapter_06_function.s: chapter_06_function.cpp.s
+
+.PHONY : chapter_06_function.s
+
+# target to generate assembly for a file
+chapter_06_function.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_06_function.cpp.s
+.PHONY : chapter_06_function.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -218,6 +326,18 @@ help:
 	@echo ... chapter_02_datatype.obj
 	@echo ... chapter_02_datatype.i
 	@echo ... chapter_02_datatype.s
+	@echo ... chapter_03_expression.obj
+	@echo ... chapter_03_expression.i
+	@echo ... chapter_03_expression.s
+	@echo ... chapter_04_judgment.obj
+	@echo ... chapter_04_judgment.i
+	@echo ... chapter_04_judgment.s
+	@echo ... chapter_05_cycle.obj
+	@echo ... chapter_05_cycle.i
+	@echo ... chapter_05_cycle.s
+	@echo ... chapter_06_function.obj
+	@echo ... chapter_06_function.i
+	@echo ... chapter_06_function.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

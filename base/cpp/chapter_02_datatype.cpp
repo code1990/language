@@ -33,7 +33,8 @@ using  namespace std;
 枚举常量:枚举型数据中定义的成员也都是常量，这将在后文介绍。
 宏定义常量:通过#define宏定义的一些值也是常量。
  * */
-void DefineConstant(){
+void Constant(){
+    cout << "constant example"<< endl;
     cout<<2009<<endl;
     cout<<-2009<<endl;
     cout<<3.14<<endl;
@@ -65,7 +66,8 @@ void DefineConstant(){
 2.4.6变量赋初值
  *
  * */
-void DefineVariable(){
+void Variable(){
+    cout << "variable example"<< endl;
     signed int sInt = 10;
     unsigned int uInt =10;
     signed short int  ssInt = 10;

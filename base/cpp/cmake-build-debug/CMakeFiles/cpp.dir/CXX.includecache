@@ -6,13 +6,11 @@
 
 #IncludeRegexTransform: 
 
-E:/github/language/base/cpp/chapter_02_datatype.cpp
-chapter_02_datatype.h
-E:/github/language/base/cpp/chapter_02_datatype.h
+E:/github/language/base/cpp/chapter_05_cycle.cpp
+chapter_05_cycle.h
+E:/github/language/base/cpp/chapter_05_cycle.h
 iostream
 -
-iomanip
--
 
-E:/github/language/base/cpp/chapter_02_datatype.h
+E:/github/language/base/cpp/chapter_05_cycle.h
 

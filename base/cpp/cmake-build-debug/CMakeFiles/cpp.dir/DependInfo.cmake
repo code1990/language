@@ -6,6 +6,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "E:/github/language/base/cpp/chapter_01_hello.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/chapter_01_hello.cpp.obj"
   "E:/github/language/base/cpp/chapter_02_datatype.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/chapter_02_datatype.cpp.obj"
+  "E:/github/language/base/cpp/chapter_03_expression.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/chapter_03_expression.cpp.obj"
+  "E:/github/language/base/cpp/chapter_04_judgment.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/chapter_04_judgment.cpp.obj"
+  "E:/github/language/base/cpp/chapter_05_cycle.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/chapter_05_cycle.cpp.obj"
+  "E:/github/language/base/cpp/chapter_06_function.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/chapter_06_function.cpp.obj"
   "E:/github/language/base/cpp/main.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

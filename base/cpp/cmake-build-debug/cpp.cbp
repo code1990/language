@@ -92,6 +92,30 @@
 		<Unit filename="E:/github/language/base/cpp/chapter_02_datatype.h">
 			<Option target="cpp"/>
 		</Unit>
+		<Unit filename="E:/github/language/base/cpp/chapter_03_expression.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="E:/github/language/base/cpp/chapter_03_expression.h">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="E:/github/language/base/cpp/chapter_04_judgment.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="E:/github/language/base/cpp/chapter_04_judgment.h">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="E:/github/language/base/cpp/chapter_05_cycle.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="E:/github/language/base/cpp/chapter_05_cycle.h">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="E:/github/language/base/cpp/chapter_06_function.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="E:/github/language/base/cpp/chapter_06_function.h">
+			<Option target="cpp"/>
+		</Unit>
 		<Unit filename="E:/github/language/base/cpp/main.cpp">
 			<Option target="cpp"/>
 		</Unit>

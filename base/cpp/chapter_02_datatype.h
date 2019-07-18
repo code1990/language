@@ -5,8 +5,8 @@
 #ifndef CPP_CHAPTER_02_DATATYPE_H
 #define CPP_CHAPTER_02_DATATYPE_H
 
-void DefineConstant();
-void DefineVariable();
+void Constant();
+void Variable();
 void InputAndOutput();
 
 
