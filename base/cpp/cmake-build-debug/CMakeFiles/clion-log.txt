@@ -1,0 +1,4 @@
+"D:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_C_COMPILER=D:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe" -G "CodeBlocks - MinGW Makefiles" E:\github\language\base\cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/github/language/base/cpp/cmake-build-debug
