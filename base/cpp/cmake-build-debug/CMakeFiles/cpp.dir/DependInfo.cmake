@@ -10,6 +10,9 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/github/language/base/cpp/chapter_04_judgment.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/chapter_04_judgment.cpp.obj"
   "E:/github/language/base/cpp/chapter_05_cycle.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/chapter_05_cycle.cpp.obj"
   "E:/github/language/base/cpp/chapter_06_function.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/chapter_06_function.cpp.obj"
+  "E:/github/language/base/cpp/chapter_07_array.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/chapter_07_array.cpp.obj"
+  "E:/github/language/base/cpp/chapter_07_pointer.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/chapter_07_pointer.cpp.obj"
+  "E:/github/language/base/cpp/chapter_07_reference.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/chapter_07_reference.cpp.obj"
   "E:/github/language/base/cpp/main.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

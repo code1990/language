@@ -147,6 +147,45 @@ CMakeFiles/cpp.dir/chapter_06_function.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/chapter_06_function.cpp.s"
 	D:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\github\language\base\cpp\chapter_06_function.cpp -o CMakeFiles\cpp.dir\chapter_06_function.cpp.s
 
+CMakeFiles/cpp.dir/chapter_07_array.cpp.obj: CMakeFiles/cpp.dir/flags.make
+CMakeFiles/cpp.dir/chapter_07_array.cpp.obj: ../chapter_07_array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\github\language\base\cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/cpp.dir/chapter_07_array.cpp.obj"
+	D:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp.dir\chapter_07_array.cpp.obj -c E:\github\language\base\cpp\chapter_07_array.cpp
+
+CMakeFiles/cpp.dir/chapter_07_array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/chapter_07_array.cpp.i"
+	D:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\github\language\base\cpp\chapter_07_array.cpp > CMakeFiles\cpp.dir\chapter_07_array.cpp.i
+
+CMakeFiles/cpp.dir/chapter_07_array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/chapter_07_array.cpp.s"
+	D:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\github\language\base\cpp\chapter_07_array.cpp -o CMakeFiles\cpp.dir\chapter_07_array.cpp.s
+
+CMakeFiles/cpp.dir/chapter_07_pointer.cpp.obj: CMakeFiles/cpp.dir/flags.make
+CMakeFiles/cpp.dir/chapter_07_pointer.cpp.obj: ../chapter_07_pointer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\github\language\base\cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/cpp.dir/chapter_07_pointer.cpp.obj"
+	D:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp.dir\chapter_07_pointer.cpp.obj -c E:\github\language\base\cpp\chapter_07_pointer.cpp
+
+CMakeFiles/cpp.dir/chapter_07_pointer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/chapter_07_pointer.cpp.i"
+	D:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\github\language\base\cpp\chapter_07_pointer.cpp > CMakeFiles\cpp.dir\chapter_07_pointer.cpp.i
+
+CMakeFiles/cpp.dir/chapter_07_pointer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/chapter_07_pointer.cpp.s"
+	D:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\github\language\base\cpp\chapter_07_pointer.cpp -o CMakeFiles\cpp.dir\chapter_07_pointer.cpp.s
+
+CMakeFiles/cpp.dir/chapter_07_reference.cpp.obj: CMakeFiles/cpp.dir/flags.make
+CMakeFiles/cpp.dir/chapter_07_reference.cpp.obj: ../chapter_07_reference.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\github\language\base\cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/cpp.dir/chapter_07_reference.cpp.obj"
+	D:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp.dir\chapter_07_reference.cpp.obj -c E:\github\language\base\cpp\chapter_07_reference.cpp
+
+CMakeFiles/cpp.dir/chapter_07_reference.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/chapter_07_reference.cpp.i"
+	D:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\github\language\base\cpp\chapter_07_reference.cpp > CMakeFiles\cpp.dir\chapter_07_reference.cpp.i
+
+CMakeFiles/cpp.dir/chapter_07_reference.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/chapter_07_reference.cpp.s"
+	D:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\github\language\base\cpp\chapter_07_reference.cpp -o CMakeFiles\cpp.dir\chapter_07_reference.cpp.s
+
 # Object files for target cpp
 cpp_OBJECTS = \
 "CMakeFiles/cpp.dir/main.cpp.obj" \
@@ -155,7 +194,10 @@ cpp_OBJECTS = \
 "CMakeFiles/cpp.dir/chapter_03_expression.cpp.obj" \
 "CMakeFiles/cpp.dir/chapter_04_judgment.cpp.obj" \
 "CMakeFiles/cpp.dir/chapter_05_cycle.cpp.obj" \
-"CMakeFiles/cpp.dir/chapter_06_function.cpp.obj"
+"CMakeFiles/cpp.dir/chapter_06_function.cpp.obj" \
+"CMakeFiles/cpp.dir/chapter_07_array.cpp.obj" \
+"CMakeFiles/cpp.dir/chapter_07_pointer.cpp.obj" \
+"CMakeFiles/cpp.dir/chapter_07_reference.cpp.obj"
 
 # External object files for target cpp
 cpp_EXTERNAL_OBJECTS =
@@ -167,11 +209,14 @@ cpp.exe: CMakeFiles/cpp.dir/chapter_03_expression.cpp.obj
 cpp.exe: CMakeFiles/cpp.dir/chapter_04_judgment.cpp.obj
 cpp.exe: CMakeFiles/cpp.dir/chapter_05_cycle.cpp.obj
 cpp.exe: CMakeFiles/cpp.dir/chapter_06_function.cpp.obj
+cpp.exe: CMakeFiles/cpp.dir/chapter_07_array.cpp.obj
+cpp.exe: CMakeFiles/cpp.dir/chapter_07_pointer.cpp.obj
+cpp.exe: CMakeFiles/cpp.dir/chapter_07_reference.cpp.obj
 cpp.exe: CMakeFiles/cpp.dir/build.make
 cpp.exe: CMakeFiles/cpp.dir/linklibs.rsp
 cpp.exe: CMakeFiles/cpp.dir/objects1.rsp
 cpp.exe: CMakeFiles/cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\github\language\base\cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable cpp.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\github\language\base\cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable cpp.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\cpp.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

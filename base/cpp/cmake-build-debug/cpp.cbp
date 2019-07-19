@@ -116,6 +116,24 @@
 		<Unit filename="E:/github/language/base/cpp/chapter_06_function.h">
 			<Option target="cpp"/>
 		</Unit>
+		<Unit filename="E:/github/language/base/cpp/chapter_07_array.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="E:/github/language/base/cpp/chapter_07_array.h">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="E:/github/language/base/cpp/chapter_07_pointer.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="E:/github/language/base/cpp/chapter_07_pointer.h">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="E:/github/language/base/cpp/chapter_07_reference.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="E:/github/language/base/cpp/chapter_07_reference.h">
+			<Option target="cpp"/>
+		</Unit>
 		<Unit filename="E:/github/language/base/cpp/main.cpp">
 			<Option target="cpp"/>
 		</Unit>

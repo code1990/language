@@ -5,6 +5,7 @@
 #include "chapter_03_expression.h"
 #include "chapter_04_judgment.h"
 #include "chapter_05_cycle.h"
+#include "chapter_06_function.h"
 /*命名空间*/
 using namespace std;
 
@@ -40,5 +41,14 @@ int main() {
     MultiplicationTable();
     std::cout << "<<<<<<<<<<<<<<<<<<<<chapter_05" << std::endl;
 
+    cout << "chapter_06>>>>>>>>>>>>>>>>>>>>>>>" << endl;
+    DeclareFunction();
+    CallBackFunction();
+    FactorialRecursive(3);
+    OverloadFunction();
+    OverloadFunction(1,2);
+    InlineFunction();
+    ManyVariable();
+    cout << "<<<<<<<<<<<<<<<<<<<<chapter_06" << endl;
     return 0;
 }

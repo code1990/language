@@ -24,5 +24,6 @@ CMakeFiles/cpp.dir/main.cpp.obj: ../chapter_02_datatype.h
 CMakeFiles/cpp.dir/main.cpp.obj: ../chapter_03_expression.h
 CMakeFiles/cpp.dir/main.cpp.obj: ../chapter_04_judgment.h
 CMakeFiles/cpp.dir/main.cpp.obj: ../chapter_05_cycle.h
+CMakeFiles/cpp.dir/main.cpp.obj: ../chapter_06_function.h
 CMakeFiles/cpp.dir/main.cpp.obj: ../main.cpp
 

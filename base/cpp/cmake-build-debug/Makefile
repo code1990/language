@@ -284,6 +284,87 @@ chapter_06_function.cpp.s:
 	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_06_function.cpp.s
 .PHONY : chapter_06_function.cpp.s
 
+chapter_07_array.obj: chapter_07_array.cpp.obj
+
+.PHONY : chapter_07_array.obj
+
+# target to build an object file
+chapter_07_array.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_07_array.cpp.obj
+.PHONY : chapter_07_array.cpp.obj
+
+chapter_07_array.i: chapter_07_array.cpp.i
+
+.PHONY : chapter_07_array.i
+
+# target to preprocess a source file
+chapter_07_array.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_07_array.cpp.i
+.PHONY : chapter_07_array.cpp.i
+
+chapter_07_array.s: chapter_07_array.cpp.s
+
+.PHONY : chapter_07_array.s
+
+# target to generate assembly for a file
+chapter_07_array.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_07_array.cpp.s
+.PHONY : chapter_07_array.cpp.s
+
+chapter_07_pointer.obj: chapter_07_pointer.cpp.obj
+
+.PHONY : chapter_07_pointer.obj
+
+# target to build an object file
+chapter_07_pointer.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_07_pointer.cpp.obj
+.PHONY : chapter_07_pointer.cpp.obj
+
+chapter_07_pointer.i: chapter_07_pointer.cpp.i
+
+.PHONY : chapter_07_pointer.i
+
+# target to preprocess a source file
+chapter_07_pointer.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_07_pointer.cpp.i
+.PHONY : chapter_07_pointer.cpp.i
+
+chapter_07_pointer.s: chapter_07_pointer.cpp.s
+
+.PHONY : chapter_07_pointer.s
+
+# target to generate assembly for a file
+chapter_07_pointer.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_07_pointer.cpp.s
+.PHONY : chapter_07_pointer.cpp.s
+
+chapter_07_reference.obj: chapter_07_reference.cpp.obj
+
+.PHONY : chapter_07_reference.obj
+
+# target to build an object file
+chapter_07_reference.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_07_reference.cpp.obj
+.PHONY : chapter_07_reference.cpp.obj
+
+chapter_07_reference.i: chapter_07_reference.cpp.i
+
+.PHONY : chapter_07_reference.i
+
+# target to preprocess a source file
+chapter_07_reference.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_07_reference.cpp.i
+.PHONY : chapter_07_reference.cpp.i
+
+chapter_07_reference.s: chapter_07_reference.cpp.s
+
+.PHONY : chapter_07_reference.s
+
+# target to generate assembly for a file
+chapter_07_reference.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_07_reference.cpp.s
+.PHONY : chapter_07_reference.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -338,6 +419,15 @@ help:
 	@echo ... chapter_06_function.obj
 	@echo ... chapter_06_function.i
 	@echo ... chapter_06_function.s
+	@echo ... chapter_07_array.obj
+	@echo ... chapter_07_array.i
+	@echo ... chapter_07_array.s
+	@echo ... chapter_07_pointer.obj
+	@echo ... chapter_07_pointer.i
+	@echo ... chapter_07_pointer.s
+	@echo ... chapter_07_reference.obj
+	@echo ... chapter_07_reference.i
+	@echo ... chapter_07_reference.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
