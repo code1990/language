@@ -9,6 +9,7 @@
 #include "chapter_07_array.h"
 #include "chapter_07_pointer.h"
 #include "chapter_07_reference.h"
+#include "chapter_08_structure.h"
 /*命名空间*/
 using namespace std;
 
@@ -65,5 +66,12 @@ int main() {
     PointerArray();
     BaseReference();
     cout << "<<<<<<<<<<<<<<<<<<<<chapter_07" << endl;
+
+    cout << "chapter_08>>>>>>>>>>>>>>>>>>>>>>>" << endl;
+    BaseStructure();
+    BaseUnion();
+    BaseEnum();
+    BaseTypeof();
+    cout << "<<<<<<<<<<<<<<<<<<<<chapter_08" << endl;
     return 0;
 }

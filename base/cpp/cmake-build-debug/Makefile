@@ -365,6 +365,33 @@ chapter_07_reference.cpp.s:
 	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_07_reference.cpp.s
 .PHONY : chapter_07_reference.cpp.s
 
+chapter_08_structure.obj: chapter_08_structure.cpp.obj
+
+.PHONY : chapter_08_structure.obj
+
+# target to build an object file
+chapter_08_structure.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_08_structure.cpp.obj
+.PHONY : chapter_08_structure.cpp.obj
+
+chapter_08_structure.i: chapter_08_structure.cpp.i
+
+.PHONY : chapter_08_structure.i
+
+# target to preprocess a source file
+chapter_08_structure.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_08_structure.cpp.i
+.PHONY : chapter_08_structure.cpp.i
+
+chapter_08_structure.s: chapter_08_structure.cpp.s
+
+.PHONY : chapter_08_structure.s
+
+# target to generate assembly for a file
+chapter_08_structure.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp.dir\build.make CMakeFiles/cpp.dir/chapter_08_structure.cpp.s
+.PHONY : chapter_08_structure.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -428,6 +455,9 @@ help:
 	@echo ... chapter_07_reference.obj
 	@echo ... chapter_07_reference.i
 	@echo ... chapter_07_reference.s
+	@echo ... chapter_08_structure.obj
+	@echo ... chapter_08_structure.i
+	@echo ... chapter_08_structure.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

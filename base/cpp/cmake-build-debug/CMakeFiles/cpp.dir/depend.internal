@@ -28,6 +28,9 @@ CMakeFiles/cpp.dir/chapter_07_pointer.cpp.obj
 CMakeFiles/cpp.dir/chapter_07_reference.cpp.obj
  E:/github/language/base/cpp/chapter_07_reference.cpp
  E:/github/language/base/cpp/chapter_07_reference.h
+CMakeFiles/cpp.dir/chapter_08_structure.cpp.obj
+ E:/github/language/base/cpp/chapter_08_structure.cpp
+ E:/github/language/base/cpp/chapter_08_structure.h
 CMakeFiles/cpp.dir/main.cpp.obj
  E:/github/language/base/cpp/chapter_01_hello.h
  E:/github/language/base/cpp/chapter_02_datatype.h
@@ -38,4 +41,5 @@ CMakeFiles/cpp.dir/main.cpp.obj
  E:/github/language/base/cpp/chapter_07_array.h
  E:/github/language/base/cpp/chapter_07_pointer.h
  E:/github/language/base/cpp/chapter_07_reference.h
+ E:/github/language/base/cpp/chapter_08_structure.h
  E:/github/language/base/cpp/main.cpp

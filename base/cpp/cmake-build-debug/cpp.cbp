@@ -134,6 +134,12 @@
 		<Unit filename="E:/github/language/base/cpp/chapter_07_reference.h">
 			<Option target="cpp"/>
 		</Unit>
+		<Unit filename="E:/github/language/base/cpp/chapter_08_structure.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="E:/github/language/base/cpp/chapter_08_structure.h">
+			<Option target="cpp"/>
+		</Unit>
 		<Unit filename="E:/github/language/base/cpp/main.cpp">
 			<Option target="cpp"/>
 		</Unit>

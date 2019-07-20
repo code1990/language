@@ -6,6 +6,24 @@
 
 #IncludeRegexTransform: 
 
+E:/github/language/base/cpp/chapter_01_hello.h
+iostream
+-
+
+E:/github/language/base/cpp/chapter_02_datatype.h
+
+E:/github/language/base/cpp/chapter_03_expression.h
+
+E:/github/language/base/cpp/chapter_04_judgment.h
+
+E:/github/language/base/cpp/chapter_05_cycle.h
+
+E:/github/language/base/cpp/chapter_06_function.h
+
+E:/github/language/base/cpp/chapter_07_array.h
+
+E:/github/language/base/cpp/chapter_07_pointer.h
+
 E:/github/language/base/cpp/chapter_07_reference.cpp
 chapter_07_reference.h
 E:/github/language/base/cpp/chapter_07_reference.h
@@ -13,4 +31,38 @@ iostream
 -
 
 E:/github/language/base/cpp/chapter_07_reference.h
+
+E:/github/language/base/cpp/chapter_08_structure.cpp
+chapter_08_structure.h
+E:/github/language/base/cpp/chapter_08_structure.h
+cstring
+-
+iostream
+-
+
+E:/github/language/base/cpp/chapter_08_structure.h
+
+E:/github/language/base/cpp/main.cpp
+iostream
+-
+chapter_01_hello.h
+E:/github/language/base/cpp/chapter_01_hello.h
+chapter_02_datatype.h
+E:/github/language/base/cpp/chapter_02_datatype.h
+chapter_03_expression.h
+E:/github/language/base/cpp/chapter_03_expression.h
+chapter_04_judgment.h
+E:/github/language/base/cpp/chapter_04_judgment.h
+chapter_05_cycle.h
+E:/github/language/base/cpp/chapter_05_cycle.h
+chapter_06_function.h
+E:/github/language/base/cpp/chapter_06_function.h
+chapter_07_array.h
+E:/github/language/base/cpp/chapter_07_array.h
+chapter_07_pointer.h
+E:/github/language/base/cpp/chapter_07_pointer.h
+chapter_07_reference.h
+E:/github/language/base/cpp/chapter_07_reference.h
+chapter_08_structure.h
+E:/github/language/base/cpp/chapter_08_structure.h
 

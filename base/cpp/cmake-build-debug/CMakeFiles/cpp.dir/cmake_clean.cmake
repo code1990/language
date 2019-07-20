@@ -9,6 +9,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp.dir/chapter_07_array.cpp.obj"
   "CMakeFiles/cpp.dir/chapter_07_pointer.cpp.obj"
   "CMakeFiles/cpp.dir/chapter_07_reference.cpp.obj"
+  "CMakeFiles/cpp.dir/chapter_08_structure.cpp.obj"
   "cpp.pdb"
   "cpp.exe"
   "cpp.exe.manifest"

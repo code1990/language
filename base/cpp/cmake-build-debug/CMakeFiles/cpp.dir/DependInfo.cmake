@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/github/language/base/cpp/chapter_07_array.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/chapter_07_array.cpp.obj"
   "E:/github/language/base/cpp/chapter_07_pointer.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/chapter_07_pointer.cpp.obj"
   "E:/github/language/base/cpp/chapter_07_reference.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/chapter_07_reference.cpp.obj"
+  "E:/github/language/base/cpp/chapter_08_structure.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/chapter_08_structure.cpp.obj"
   "E:/github/language/base/cpp/main.cpp" "E:/github/language/base/cpp/cmake-build-debug/CMakeFiles/cpp.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
