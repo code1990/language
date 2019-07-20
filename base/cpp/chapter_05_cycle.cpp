@@ -38,7 +38,7 @@ void DOWhile(){
  * goto:无条件跳转
  * */
 void For(){
-    for (int i = 0; i < 3; ++i) {
+    for (int i = 0; i < 3; i++) {
         if(i%2==0){
             cout<<"even"<<endl;
         }else{
@@ -50,8 +50,8 @@ void For(){
  * 5.6循环嵌套 打印9*9乘法表
  */
 void MultiplicationTable(){
-    for (int i = 1; i <=9 ; ++i) {
-        for (int j = 1; j <=i ; ++j) {
+    for (int i = 1; i <=9 ; i++) {
+        for (int j = 1; j <=i ; j++) {
             cout<<i<<"*"<<j<<'='<<(i*j)<<' ';
         }
         cout<<endl;

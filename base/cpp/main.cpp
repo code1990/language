@@ -6,6 +6,9 @@
 #include "chapter_04_judgment.h"
 #include "chapter_05_cycle.h"
 #include "chapter_06_function.h"
+#include "chapter_07_array.h"
+#include "chapter_07_pointer.h"
+#include "chapter_07_reference.h"
 /*命名空间*/
 using namespace std;
 
@@ -50,5 +53,17 @@ int main() {
     InlineFunction();
     ManyVariable();
     cout << "<<<<<<<<<<<<<<<<<<<<chapter_06" << endl;
+
+    cout << "chapter_07>>>>>>>>>>>>>>>>>>>>>>>" << endl;
+    OneArray();
+    TwoArray();
+    StringArray();
+    CharArrayMethod();
+    BasePointer();
+    OneArrayPointer();
+    FunctionPointer();
+    PointerArray();
+    BaseReference();
+    cout << "<<<<<<<<<<<<<<<<<<<<chapter_07" << endl;
     return 0;
 }

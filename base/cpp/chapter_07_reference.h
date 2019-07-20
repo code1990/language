@@ -6,6 +6,7 @@
 #define CPP_CHAPTER_07_REFERENCE_H
 
 
-
+void BaseReference();
+void min(int (*a)[4],int m);
 
 #endif //CPP_CHAPTER_07_REFERENCE_H
